@@ -1,84 +1,87 @@
----
-
-## 🎯 2026 Goals & Roadmap
-
-### Short-term (Q1-Q2 2026)
-- [ ] Complete 10 end-to-end ML projects
-- [ ] Achieve 2000+ GitHub contributions
-- [ ] Contribute to 5+ open-source projects
-- [ ] Deploy 3 production ML models
-- [ ] Master MLOps fundamentals
-
-### Medium-term (Q3-Q4 2026)
-- [ ] Publish 2 technical blogs on Medium/Dev.to
-- [ ] Build a full-stack ML application
-- [ ] Gain experience with LLM fine-tuning
-- [ ] Contribute to major open-source ML project
-- [ ] Secure AI/ML Engineer position
-
-### Long-term Vision
-- 🎯 Become a recognized AI/ML Engineer
-- 🎯 Lead ML projects in production environments
-- 🎯 Contribute cutting-edge research applications
-- 🎯 Build AI solutions for social impact
-- 🎯 Mentor junior developers in AI/ML
-
----
-
-## 🔗 Connect With Me
+# Banty Sagar
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Bantysagar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](YOUR_MEDIUM_URL)
+[![GitHub followers](https://img.shields.io/github/followers/Bantysagar?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantysagar)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bantysagar&style=for-the-badge&color=0:6A11CB,100:2575FC)](https://github.com/Bantysagar)
+
+**AI/ML Engineer | Python Developer | Computer Vision Specialist**
+
+*Transforming complex problems into intelligent solutions through machine learning and deep learning*
 
 </div>
 
 ---
 
-## 💬 Let's Talk
+## 🎯 Executive Summary
 
-I'm always interested in discussing:
-- 🤖 Machine Learning & AI applications
-- 💡 Innovative product ideas
-- 🔧 Technical architecture and best practices
-- 🌱 Open-source contributions and collaborations
-- 📈 Career growth in tech
-
-Feel free to reach out for collaborations, opportunities, or technical discussions!
+I am an AI/ML Engineer with specialized expertise in **machine learning systems**, **NLP**, and **computer vision**. Currently pursuing MCA in AI & ML, with a proven track record of building production-ready AI applications and contributing to open-source projects. Passionate about developing scalable, robust solutions that solve real-world problems.
 
 ---
 
-## 📖 Latest Blog Posts & Resources
+## 💼 Professional Overview
 
-Coming soon! I'm planning to share detailed technical blogs on:
-- Building production ML pipelines
-- Deep learning best practices
-- NLP applications and techniques
-- MLOps and model deployment
-- FastAPI for ML services
+| Aspect | Details |
+|--------|---------|
+| **Current Role** | AI/ML Engineer & Python Developer |
+| **Education** | MCA (AI & ML) - Vidya University |
+| **Specializations** | Machine Learning, Deep Learning, NLP, Computer Vision |
+| **Primary Language** | Python |
+| **Focus Areas** | MLOps, FastAPI, PyTorch, TensorFlow |
+
+---
+
+## 🔬 Core Competencies
+
+### Machine Learning & AI
+- **Supervised Learning**: Classification, Regression, Ensemble Methods
+- **Unsupervised Learning**: Clustering, Dimensionality Reduction
+- **NLP**: Text Processing, Tokenization, Feature Extraction, Sentiment Analysis
+- **Computer Vision**: Image Processing, Object Detection, Feature Extraction
+- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers
+
+### Software Development
+- **Backend**: FastAPI, RESTful APIs, Microservices Architecture
+- **Databases**: MySQL, MongoDB (basic), SQL optimization
+- **DevOps**: Git/GitHub, CI/CD pipelines, Model versioning
+- **Data Engineering**: Data preprocessing, ETL pipelines, Feature engineering
+
+### Technical Tools & Frameworks
+- **ML Libraries**: Scikit-learn, XGBoost, LightGBM, Pandas, NumPy
+- **Deep Learning**: PyTorch, TensorFlow, Keras
+- **Computer Vision**: OpenCV, PIL/Pillow
+- **Development**: FastAPI, Flask, Jupyter Notebooks
 
 ---
 
-## 🙏 Acknowledgments
-
-- Thanks to the open-source community for incredible tools and libraries
-- Gratitude to my mentors and the learning community
-- Special thanks to everyone who has supported my journey
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⭐ If my work adds value to you, please consider giving my repositories a star!
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **ML/AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **IDEs** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) |
 
-**"Artificial Intelligence is not about replacing humans; it's about empowering them to achieve more."**
+</div>
 
 ---
 
-**Last Updated**: July 2026 | **Status**: Actively Seeking AI/ML Opportunities
+## 🚀 Featured Projects
 
-</div>
+### 1. 🤖 **TalentRank AI** - Intelligent Recruitment System
+**Status**: In Development
+
+**Description**: An AI-powered candidate ranking and matching system leveraging NLP and machine learning to revolutionize the recruitment process.
+
+**Key Features**:
+- Automated candidate scoring based on multi-dimensional criteria
+- Resume parsing and skill extraction using NLP
+- Job-candidate matching algorithm
+- RESTful API integration for seamless deployment
+
+**Tech Stack**:
