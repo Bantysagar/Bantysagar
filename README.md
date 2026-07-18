@@ -1,63 +1,348 @@
-# Hi, I'm Banty Sagar 👋
+<!-- ========================================================= -->
+<!--                       BANNER                              -->
+<!-- ========================================================= -->
 
-### Aspiring AI/ML Engineer | MCA AI/ML Student | Python & Machine Learning Enthusiast
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,100:2575FC&text=Banty%20Sagar&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlign=50&descAlignY=60" width="100%" />
+</p>
 
-I am currently pursuing MCA with a specialization in Artificial Intelligence and Machine Learning at Vidya University, Meerut. I am focused on building practical AI/ML projects using Python, Machine Learning, NLP, and backend technologies.
+<h1 align="center">Hi 👋, I'm Banty Sagar</h1>
 
----
+<h3 align="center">
+AI & Machine Learning Engineer • Python Developer • FastAPI Enthusiast
+</h3>
 
-## 🚀 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Python+Developer;FastAPI;Data+Science;Open+Source+Learner" />
+</p>
 
-* 🎓 MCA AI/ML Student at Vidya University, Meerut
-* 💻 Interested in AI/ML, NLP, Data Science, and Backend Development
-* 🧠 Building real-world projects using Python, Scikit-learn, FastAPI, and NLP
-* 🔍 Currently working on TalentRank AI, an AI-powered candidate ranking system
-* 🎯 Career Goal: To become an AI/ML Engineer
+<p align="center">
 
----
+<a href="https://github.com/Bantysagar">
+<img src="https://img.shields.io/github/followers/Bantysagar?label=Followers&style=for-the-badge&color=7B68EE"/>
+</a>
 
-## 🛠️ Tech Stack
+<img src="https://komarev.com/ghpvc/?username=Bantysagar&style=for-the-badge&color=7B68EE"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 💫 About Me
 
-### TalentRank AI
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-AI-powered candidate ranking system for the INDIA RUNS Hackathon.
-It ranks candidates based on job-description relevance, skills, experience, education, and explainable scoring.
+- 🎓 MCA (AI & ML) Student at **Vidya University**
+- 💻 Passionate about Artificial Intelligence & Machine Learning
+- 🧠 Learning Deep Learning, NLP and Computer Vision
+- 🚀 Building real-world AI Projects
+- 🔍 Currently developing **TalentRank AI**
+- 🌱 Learning **FastAPI, PyTorch and MLOps**
+- 💬 Ask me about **Python, AI, ML**
+- ⚡ Goal: Become an AI Engineer
 
-### ATSLens
+<br><br>
 
-AI-powered ATS resume analyzer that extracts resume content, calculates ATS score, identifies missing skills, checks MNC readiness, and generates resume improvement suggestions.
+# 🛠️ Tech Stack
 
-### Student Performance Prediction System
+<p align="center">
 
-Machine learning project for predicting student performance and academic risk levels using classification models and data analysis.
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,opencv,mysql,git,github,vscode,html,css,js"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Current Focus
 
-![Banty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bantysagar\&show_icons=true\&theme=tokyonight)
+```python
+class BantySagar:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bantysagar\&layout=compact\&theme=tokyonight)
+    def __init__(self):
+
+        self.name = "Banty Sagar"
+
+        self.role = "AI/ML Engineer"
+
+        self.language = "Python"
+
+        self.learning = [
+            "Machine Learning",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "FastAPI"
+        ]
+
+        self.projects = [
+            "TalentRank AI",
+            "ATSLens",
+            "Student Performance Prediction"
+        ]
+
+    def dream(self):
+        return "Build AI that solves real-world problems."
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bantysagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bantysagar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantysagar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-* GitHub: https://github.com/Bantysagar
-* LinkedIn: Add your LinkedIn profile link here
-* Email: Add your professional email here
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bantysagar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bantysagar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bantysagar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/7B68EE/Bantysagar"/>
+
+</p>
+
+---
+
+# 💻 Development Breakdown
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bantysagar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bantysagar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bantysagar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bantysagar&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🌟 Open Source
+
+<div align="center">
+
+| 🚀 Focus | 🎯 Goal |
+|----------|----------|
+| Artificial Intelligence | AI Engineer |
+| Machine Learning | Open Source Contributor |
+| FastAPI | Build Useful Products |
+| NLP | Learn Every Day |
+| Python | Solve Real Problems |
+
+</div>
+
+---
+
+# 🔥 Current Goals - 2026
+
+- ✅ Build 10 AI Projects
+- ✅ Contribute to Open Source
+- ✅ Learn MLOps
+- ✅ Master Deep Learning
+- ✅ Crack AI/ML Interviews
+- ✅ Land an AI Engineer Role
+
+---
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 TalentRank AI
+
+AI-powered candidate ranking system using Machine Learning and NLP.
+
+**Tech Stack**
+
+- Python
+- FastAPI
+- NLP
+- Scikit-learn
+- MySQL
+
+⭐ Recruiter-friendly AI project.
+
+</td>
+
+<td width="50%">
+
+### 📄 ATSLens
+
+ATS Resume Analyzer with AI-powered resume scoring.
+
+**Features**
+
+- ATS Score
+- Missing Skills
+- Resume Parsing
+- AI Suggestions
+- MNC Readiness
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎓 Student Performance Prediction
+
+Machine Learning model to predict student academic performance.
+
+**Tech**
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+</td>
+
+<td>
+
+### 🚀 More Projects Coming Soon...
+
+Currently building more AI and Machine Learning applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📜 Certifications
+
+🏅 IBM AI
+
+🏅 Machine Learning
+
+🏅 Python Programming
+
+🏅 Git & GitHub
+
+🏅 Data Science
+
+(Add certificate links later)
+
+---
+
+# 🌱 Currently Learning
+
+```text
+███████████████████░░░░░  AI & ML
+
+█████████████████░░░░░░░  Deep Learning
+
+████████████████░░░░░░░░  FastAPI
+
+███████████████░░░░░░░░░  Computer Vision
+
+██████████████░░░░░░░░░░  MLOps
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Bantysagar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> "Artificial Intelligence is not about replacing humans; it's about empowering them."
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Bantysagar&label=Profile%20Views&color=7B68EE&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=150&section=footer"/>
+
+</p>
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
