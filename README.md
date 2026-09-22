@@ -1,40 +1,32 @@
-<!-- ============================================================
-     BANTY SAGAR — AI/ML ENGINEER
-     Premium GitHub Profile README
-     Light Theme • Recruiter Focused • AI Engineering Portfolio
-============================================================= -->
+<!-- =========================================================
+   BANTY SAGAR — AI/ML ENGINEER
+   Premium AI Engineering GitHub Portfolio
+   Light Theme • Recruiter Focused • AGI-Inspired
+========================================================== -->
 
-<!-- ======================== HERO ======================== -->
+<!-- ========================= HERO ========================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:E0F2FE,30:BAE6FD,65:DDD6FE,100:CCFBF1&text=BANTY%20SAGAR&fontColor=334155&fontSize=54&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20GENERATIVE%20AI&descColor=475569&descSize=17&descAlignY=56"/>
+<img src="./assets/ai-engineer-workstation.svg" width="100%" alt="Banty Sagar AI Engineering Portfolio"/>
 
-<br>
+<br/>
 
-<a href="https://github.com/Bantysagar">
-<img src="https://github.com/Bantysagar.png?size=230" width="185" alt="Banty Sagar"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=0284C7&center=true&vCenter=true&width=900&height=60&lines=AI%2FML+Engineer;Machine+Learning+Engineer;Natural+Language+Processing;Generative+AI+%26+LLM+Engineering;RAG+%26+Vector+Retrieval;Python+%26+FastAPI+Development;Engineering+Intelligent+Applications" alt="AI Engineering Roles"/>
 
-<br>
+<br/>
 
-# Hi, I'm **Banty Sagar** 👋
-
-### `AI/ML Engineer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2400&pause=750&color=0284C7&center=true&vCenter=true&width=850&height=58&lines=AI%2FML+Engineer;Machine+Learning+Engineer;Generative+AI+Engineer;Natural+Language+Processing;LLM+%26+RAG+Engineering;Python+%26+FastAPI+Development;Engineering+Intelligent+Applications" alt="Typing Animation"/>
-
-### Machine Learning · NLP · Generative AI · LLMs · RAG · Python · FastAPI
+### `Machine Learning` · `NLP` · `Generative AI` · `LLMs` · `RAG` · `Python` · `FastAPI`
 
 **Engineering intelligent systems from models to real-world applications.**
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/AI%2FML-ENGINEER-E0F2FE?style=for-the-badge&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PRIMARY%20ROLE-AI%2FML%20ENGINEER-E0F2FE?style=for-the-badge&labelColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MCA-AI%20%26%20DATA%20SCIENCE-F5F3FF?style=for-the-badge&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-CCFBF1?style=for-the-badge&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-CCFBF1?style=for-the-badge&labelColor=FFFFFF"/>
 
-<br><br>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Bantysagar&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square" alt="Profile Views"/>
 
@@ -42,364 +34,333 @@
 
 ---
 
-<!-- ==================== PROFESSIONAL INTRO ==================== -->
+<!-- ==================== PROFESSIONAL IDENTITY ==================== -->
 
-## 👨‍💻 Professional Profile
+# 👨‍💻 AI Engineering Profile
 
 <table>
 <tr>
+
 <td width="64%" valign="top">
 
-### AI/ML Engineer
+## Hi, I'm **Banty Sagar**
 
-Early-career **AI/ML Engineer** pursuing an MCA in **Artificial Intelligence & Data Science**, focused on designing practical intelligent systems using:
+Early-career **AI/ML Engineer** pursuing an MCA in **Artificial Intelligence & Data Science**, focused on converting machine-learning and modern AI concepts into practical software systems.
 
-**Python · Machine Learning · NLP · Generative AI · LLMs · RAG · FastAPI**
+My engineering direction combines:
 
-My primary interest is not limited to training models — I am focused on connecting **AI models, NLP pipelines, backend APIs, databases and user-facing applications** into complete intelligent systems.
+**Machine Learning → NLP → Generative AI → Backend APIs → Intelligent Applications**
 
-- 🎓 MCA — **Artificial Intelligence & Data Science**
-- 🏫 **Vidya University, Meerut**
-- 🤖 Primary career direction — **AI/ML Engineering**
-- 🐍 Primary programming language — **Python**
-- 🧠 Focus — **ML, NLP, GenAI, LLM & RAG**
-- ⚙️ Backend — **FastAPI, Flask & REST APIs**
-- 💼 AI/ML Internship — **Maincrafts**
-- 🚀 Flagship completed system — **ATSLens**
+I work primarily with **Python, Scikit-learn, FastAPI, NLP techniques, machine-learning pipelines and emerging LLM/RAG concepts**.
+
+### Core Direction
+
+- AI/ML Engineering
+- Machine Learning Engineering
+- Natural Language Processing
+- Generative AI
+- LLM & RAG systems
+- Python AI applications
+- AI backend development
 
 </td>
 
 <td width="36%" valign="top">
 
-### ⚡ Engineering Snapshot
+## ⚡ Profile Matrix
 
 | | |
 |---|---|
+| **Name** | Banty Sagar |
 | **Role** | AI/ML Engineer |
 | **Level** | Entry Level |
-| **AI** | ML · NLP · GenAI |
-| **LLM** | RAG · Embeddings |
+| **Degree** | MCA — AI & DS |
+| **Primary** | Python |
+| **ML** | Scikit-learn |
 | **Backend** | FastAPI |
-| **Language** | Python |
-| **Database** | SQL · Vector DB |
-| **Focus** | AI Applications |
+| **AI Focus** | ML · NLP · GenAI |
+| **Featured** | ATSLens |
 | **Location** | Meerut, India |
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ==================== AI ENGINEERING MAP ==================== -->
-
-# 🧠 AI Engineering Ecosystem
+# 🧠 AI Engineering Architecture
 
 ```text
-                         ┌─────────────────────┐
-                         │    AI ENGINEERING   │
-                         └──────────┬──────────┘
-                                    │
-             ┌──────────────────────┼──────────────────────┐
-             │                      │                      │
-             ▼                      ▼                      ▼
-    ┌────────────────┐     ┌────────────────┐     ┌────────────────┐
-    │ MACHINE        │     │ NLP            │     │ GENERATIVE AI  │
-    │ LEARNING       │     │ ENGINEERING    │     │ SYSTEMS        │
-    └───────┬────────┘     └───────┬────────┘     └───────┬────────┘
-            │                      │                      │
-      Classification           TF-IDF                  LLMs
-      Regression               Parsing                 RAG
-      Random Forest            Similarity              Embeddings
-      Gradient Boosting        Extraction              Vector DB
-      SVM                      Text Processing         AI Agents
-            │                      │                      │
-            └──────────────────────┼──────────────────────┘
-                                   │
-                                   ▼
-                       ┌────────────────────────┐
-                       │ APPLICATION ENGINEERING│
-                       └────────────┬───────────┘
-                                    │
-                   ┌────────────────┼────────────────┐
-                   │                │                │
-                FastAPI         REST APIs        Databases
-                   │                │                │
-                   └────────────────┼────────────────┘
-                                    │
-                                    ▼
-                         INTELLIGENT APPLICATIONS
+                              AI ENGINEERING
+                                     │
+          ┌──────────────────────────┼──────────────────────────┐
+          │                          │                          │
+          ▼                          ▼                          ▼
+ MACHINE LEARNING             NLP ENGINEERING             GENERATIVE AI
+          │                          │                          │
+   Classification                 TF-IDF                       LLMs
+   Regression                     Parsing                      RAG
+   Random Forest                  Text Processing              Embeddings
+   Gradient Boosting              Similarity                   Vector DB
+   SVM                            Skill Extraction             AI Agents
+   Feature Engineering            Document Analysis            Prompting
+          │                          │                          │
+          └──────────────────────────┼──────────────────────────┘
+                                     │
+                                     ▼
+                            APPLICATION ENGINEERING
+                                     │
+                 ┌───────────────────┼───────────────────┐
+                 │                   │                   │
+              FastAPI             REST APIs          Databases
+                 │                   │                   │
+                 └───────────────────┼───────────────────┘
+                                     │
+                                     ▼
+                        REAL-WORLD INTELLIGENT SYSTEMS
 ```
 
 ---
 
-<!-- ======================== CORE STACK ======================== -->
+# ⚙️ Core Engineering Stack
 
-# ⚡ Core Technology Stack
+<table>
 
-### 💻 Programming
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=EAB308"/>
-<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</p>
+## 🐍 Core Engineering
 
-### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=64748B"/>
+<img src="https://img.shields.io/badge/REST%20APIs-E0F2FE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=F05032"/>
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-E0F2FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification-EEF2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regression-F5F3FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Random%20Forest-ECFDF5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gradient%20Boosting-E0F2FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SVM-F5F3FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-EEF2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GridSearchCV-ECFDF5?style=for-the-badge"/>
-</p>
+</td>
 
-### 📝 Natural Language Processing
+<td width="50%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/NLP-E0F2FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Text%20Processing-F5F3FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TF--IDF-ECFDF5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cosine%20Similarity-EEF2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Resume%20Parsing-E0F2FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Skill%20Extraction-F5F3FF?style=for-the-badge"/>
-</p>
+## 🤖 Machine Learning
 
-### ✨ Generative AI
+<img src="https://img.shields.io/badge/Scikit--learn-FFFFFF?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Random%20Forest-E0F2FE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gradient%20Boosting-F5F3FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/SVM-CCFBF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/GridSearchCV-EEF2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-E0F2FE?style=flat-square"/>
 
-<p>
-<img src="https://img.shields.io/badge/Generative%20AI-F5F3FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-E0F2FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-ECFDF5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-EEF2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-E0F2FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-F5F3FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-ECFDF5?style=for-the-badge"/>
-</p>
+</td>
+</tr>
 
-### 📚 AI / Data Libraries
+<tr>
+<td width="50%" valign="top">
 
-<p>
+## 📝 NLP Engineering
+
+<img src="https://img.shields.io/badge/NLP-E0F2FE?style=flat-square"/>
+<img src="https://img.shields.io/badge/TF--IDF-F5F3FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cosine%20Similarity-CCFBF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Text%20Processing-EEF2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Resume%20Parsing-E0F2FE?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✨ Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-F5F3FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-E0F2FE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-CCFBF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-EEF2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-F5F3FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-E0F2FE?style=flat-square"/>
+
+</td>
+</tr>
+
+</table>
+
+### Data & ML Libraries
+
 <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=4D77CF"/>
-<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=6D28D9"/>
-<img src="https://img.shields.io/badge/Scikit--learn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=5B21B6"/>
+<img src="https://img.shields.io/badge/Scikit--learn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=14B8A6"/>
 <img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-</p>
 
-### ⚙️ Backend Engineering
+### Databases
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=475569"/>
-<img src="https://img.shields.io/badge/REST%20API-E0F2FE?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
 <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=0EA5E9"/>
+<img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=0284C7"/>
 <img src="https://img.shields.io/badge/ChromaDB-F5F3FF?style=for-the-badge"/>
-</p>
 
-### 🛠️ Development
+### Development
 
-<p>
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=EAB308"/>
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=334155"/>
 <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-</p>
 
 ---
 
 <!-- =========================================================
-                       FLAGSHIP PROJECT
+                     FLAGSHIP PROJECT
 ========================================================== -->
 
-# 🏆 Featured AI Project
+# 🏆 Flagship AI Project
 
 <div align="center">
 
-## ATSLens
+# ATSLens
 
 ### AI-Powered ATS Resume Intelligence Platform
 
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-CCFBF1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CATEGORY-AI%20%7C%20NLP-E0F2FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%2B%20NLP-E0F2FE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TYPE-Resume%20Intelligence-F5F3FF?style=for-the-badge"/>
 
 </div>
 
-### Overview
+## System Overview
 
-**ATSLens** is a completed AI-powered resume intelligence platform designed to evaluate resumes against job descriptions and convert resume content into structured, job-specific insights.
+**ATSLens** is a completed AI-powered ATS Resume Analyzer designed to evaluate resumes against job descriptions and produce structured career and resume intelligence.
 
-The system combines **document parsing, NLP processing, technical skill extraction, TF-IDF, cosine similarity, structured scoring and recommendation generation** inside a FastAPI-based application.
+The system combines **document parsing, NLP preprocessing, skill matching, TF-IDF, cosine similarity, ATS-oriented analysis and PDF reporting** to help transform unstructured resume content into measurable job-relevance insights.
 
-### 🎯 Problem
+### Core Capabilities
 
-Job applicants often do not know:
-
-- how closely their resume matches a job description,
-- which required skills are missing,
-- whether the resume contains enough technical evidence,
-- how ATS-oriented the resume structure is,
-- or what improvements are most important.
-
-### 💡 Solution
-
-ATSLens performs structured resume intelligence across multiple stages:
-
-**Resume Parsing → NLP Processing → Skill Intelligence → Resume/JD Matching → ATS Analysis → Skill Gap Analysis → Recommendations → PDF Report**
+| Engineering Layer | Capability |
+|---|---|
+| Resume Processing | PDF / DOCX parsing |
+| Information Extraction | Candidate and resume information |
+| NLP Processing | Resume text preprocessing |
+| Skill Intelligence | Skill extraction and matching |
+| Similarity Engine | TF-IDF + Cosine Similarity |
+| Resume–JD Analysis | Job description matching |
+| ATS Analysis | Resume scoring |
+| Career Analysis | Career recommendation |
+| Readiness | MNC readiness insights |
+| Reporting | PDF report generation |
+| Backend | FastAPI-based service layer |
 
 ---
 
-## ⚙️ ATSLens Architecture
+## ATSLens Intelligence Pipeline
 
 ```text
-┌──────────────────────────────┐
-│       RESUME / JD INPUT      │
-│        PDF • DOCX • Text     │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│       DOCUMENT PARSER        │
-│      pypdf • python-docx     │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│        NLP PROCESSING        │
-│ Cleaning • Text Extraction   │
-│ Skill & Evidence Extraction  │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│      FEATURE REPRESENTATION  │
-│            TF-IDF            │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│       SIMILARITY ENGINE      │
-│       Cosine Similarity      │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│      RESUME ↔ JD ANALYSIS    │
-├──────────────────────────────┤
-│ ATS Compatibility            │
-│ Job Match Analysis           │
-│ Technical Evidence           │
-│ Missing Skills               │
-│ Skill Prioritization         │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│   RECOMMENDATION ENGINE      │
-│ Job-Specific Improvements    │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│       STRUCTURED OUTPUT      │
-│ Dashboard • Insights • PDF   │
-└──────────────────────────────┘
+                     ┌──────────────────────┐
+                     │     RESUME INPUT     │
+                     │     PDF / DOCX       │
+                     └──────────┬───────────┘
+                                │
+                                ▼
+                     ┌──────────────────────┐
+                     │   DOCUMENT PARSING   │
+                     │ Text + Information   │
+                     └──────────┬───────────┘
+                                │
+                                ▼
+                     ┌──────────────────────┐
+                     │   NLP PREPROCESSING  │
+                     │ Cleaning + Analysis  │
+                     └──────────┬───────────┘
+                                │
+                     ┌──────────┴───────────┐
+                     │                      │
+                     ▼                      ▼
+             ┌──────────────┐       ┌──────────────┐
+             │    SKILL     │       │    TF-IDF    │
+             │  EXTRACTION  │       │ VECTORIZATION│
+             └──────┬───────┘       └──────┬───────┘
+                    │                      │
+                    └──────────┬───────────┘
+                               ▼
+                    ┌──────────────────────┐
+                    │  COSINE SIMILARITY   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ RESUME ↔ JD MATCHING │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼──────────────────┐
+             │                 │                  │
+             ▼                 ▼                  ▼
+      ┌────────────┐    ┌────────────┐    ┌─────────────┐
+      │ ATS SCORE  │    │SKILL MATCH │    │  READINESS  │
+      └─────┬──────┘    └─────┬──────┘    └──────┬──────┘
+            │                 │                   │
+            └─────────────────┼───────────────────┘
+                              ▼
+                   ┌──────────────────────┐
+                   │ RECOMMENDATIONS      │
+                   │ + CAREER INSIGHTS    │
+                   └──────────┬───────────┘
+                              │
+                              ▼
+                   ┌──────────────────────┐
+                   │   PDF REPORT OUTPUT  │
+                   └──────────────────────┘
 ```
 
-### 🚀 Key Capabilities
+### Technology
 
-| AI Engineering Area | Capability |
-|---|---|
-| Document Intelligence | PDF/DOCX Resume Parsing |
-| Information Extraction | Candidate Data Extraction |
-| NLP | Text Processing |
-| Skills Intelligence | Skill Extraction + Alias Handling |
-| Feature Representation | TF-IDF |
-| Similarity Analysis | Cosine Similarity |
-| Resume Intelligence | Resume ↔ JD Matching |
-| ATS Analysis | ATS Compatibility |
-| Job Alignment | Job Match Analysis |
-| Gap Detection | Missing Skills |
-| Evidence Analysis | Technical Evidence Identification |
-| Optimization | Resume Recommendations |
-| Reporting | Downloadable PDF Report |
-| Application Layer | FastAPI Backend |
-
-### 🧰 ATSLens Technology
-
-<p>
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Scikit--learn-FFFFFF?style=flat-square&logo=scikitlearn&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/NLP-E0F2FE?style=flat-square"/>
-<img src="https://img.shields.io/badge/TF--IDF-F5F3FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cosine%20Similarity-CCFBF1?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLite-FFFFFF?style=flat-square&logo=sqlite&logoColor=0284C7"/>
-<img src="https://img.shields.io/badge/ReportLab-E0F2FE?style=flat-square"/>
-</p>
+`Python` · `FastAPI` · `Scikit-learn` · `NLP` · `TF-IDF` · `Cosine Similarity` · `SQLite` · `PDF/DOCX Processing` · `Report Generation`
 
 <div align="center">
 
-[![View ATSLens](https://img.shields.io/badge/VIEW%20PROJECT-ATSLens-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantysagar/ATSlens)
+[![ATSLens Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-ATSLens-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantysagar/ATSLens)
 
 </div>
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
-
-# 🚀 Selected Projects
+# 🚀 AI & Machine Learning Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🧠 NexaMind
+## 🧠 Intelligent Predictive Analytics System
 
-### AI Decision Intelligence Platform
+### Machine Learning · Predictive Analytics
 
-**Category**
+A machine-learning system focused on **customer churn prediction** using ensemble learning and structured model optimization.
 
-`Generative AI` · `LLM` · `RAG`
+### Engineering Work
 
-NexaMind explores how **document processing, embeddings, vector retrieval and Large Language Models** can be connected to create contextual decision-intelligence applications.
-
-### Engineering Areas
-
-- Document processing
-- Embedding generation
-- Vector retrieval
-- Retrieval-Augmented Generation
-- LLM response pipeline
-- Backend API integration
+- Customer churn modelling
+- Data preprocessing
+- Feature engineering
+- Ensemble learning
+- Random Forest
+- Gradient Boosting
+- Hyperparameter tuning
+- Model comparison
+- Feature importance analysis
 
 ### Stack
 
 `Python`  
-`FastAPI`  
-`LLMs`  
-`RAG`  
-`Ollama`  
-`ChromaDB`  
-`Embeddings`  
-`REST APIs`
+`Pandas`  
+`NumPy`  
+`Scikit-learn`  
+`Random Forest`  
+`Gradient Boosting`  
+`GridSearchCV`
 
-<!-- Add verified NexaMind repository link here -->
+<br/>
+
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-Predictive%20Analytics-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantysagar/Intelligent-Predictive-Analytics-System)
 
 </td>
 
@@ -407,38 +368,30 @@ NexaMind explores how **document processing, embeddings, vector retrieval and La
 
 ## 📊 Customer Churn Prediction
 
-### Machine Learning System
+### Machine Learning · Classification
 
-**Status:** ✅ Completed
+Machine-learning project designed to predict customer churn using classification algorithms and a structured ML pipeline.
 
-**Category**
-
-`Machine Learning` · `Predictive Analytics`
-
-A supervised ML project for identifying customer churn patterns using structured customer data.
-
-### Engineering Areas
+### Engineering Work
 
 - Data preprocessing
 - Feature engineering
 - Model training
-- Model comparison
-- Random Forest
-- Gradient Boosting
-- GridSearchCV
-- Cross-validation
-- Feature importance
+- Classification
+- Model evaluation
+- Churn prediction pipeline
 
 ### Stack
 
 `Python`  
 `Pandas`  
 `NumPy`  
-`Scikit-learn`
+`Scikit-learn`  
+`Machine Learning`
 
-<br>
+<br/>
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-Customer%20Churn-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantysagar/Customer-Churn-Prediction-Using-Machine-Learning)
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-Customer%20Churn-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantysagar/Customer-Churn-Prediction-Using-Machine-Learning)
 
 </td>
 
@@ -447,87 +400,84 @@ A supervised ML project for identifying customer churn patterns using structured
 
 ---
 
-## 📈 Intelligent Predictive Analytics System
-
-Machine-learning system focused on **customer churn prediction, ensemble learning, hyperparameter tuning, model comparison and feature-importance analysis**.
-
-### Engineering Pipeline
+# 🔬 Predictive Analytics Pipeline
 
 ```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
+Raw Customer Data
+        │
+        ▼
+Data Preprocessing
+        │
+        ▼
 Exploratory Analysis
-   ↓
+        │
+        ▼
 Feature Engineering
-   ↓
+        │
+        ▼
 Model Training
-   ↓
-Random Forest + Gradient Boosting
-   ↓
+        │
+   ┌────┴─────┐
+   │          │
+   ▼          ▼
+Random     Gradient
+Forest     Boosting
+   │          │
+   └────┬─────┘
+        ▼
 GridSearchCV
-   ↓
+        │
+        ▼
 Cross Validation
-   ↓
+        │
+        ▼
 Model Comparison
-   ↓
+        │
+        ▼
 Feature Importance
-   ↓
+        │
+        ▼
 Prediction Insights
 ```
 
-<div align="center">
-
-[![Predictive Analytics](https://img.shields.io/badge/VIEW%20PROJECT-Intelligent%20Predictive%20Analytics-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantysagar/Intelligent-Predictive-Analytics-System)
-
-</div>
-
 ---
-
-<!-- ======================= EXPERIENCE ======================= -->
 
 # 💼 Experience
 
 <table>
 <tr>
-<td width="18%" align="center">
 
-### AI/ML
+<td width="25%" align="center" valign="middle">
 
-**Intern**
+## AI/ML
+
+### Intern
+
+`Maincrafts`
 
 </td>
 
-<td width="82%">
+<td width="75%" valign="top">
 
 ## Maincrafts — AI/ML Intern
 
-**Mode:** Virtual  
-**Duration:** 20 June – 20 August  
-**Primary Project:** Customer Churn Prediction System
+**Virtual Internship**  
+**Duration:** 20 June – 20 August
 
-### Technical Work
+### Primary Work
 
-- Data preprocessing and exploratory analysis
-- Feature engineering
-- Supervised machine-learning development
-- Random Forest
-- Gradient Boosting
-- Model comparison
-- GridSearchCV
-- Hyperparameter tuning
-- Cross-validation
-- Model evaluation
-- Feature-importance analysis
+**Customer Churn Prediction System**
+
+Worked with supervised machine-learning techniques across:
+
+`Data Preprocessing` · `Feature Engineering` · `Random Forest` · `Gradient Boosting` · `Hyperparameter Tuning` · `Model Comparison` · `Model Evaluation`
 
 </td>
+
 </tr>
 </table>
 
 ---
-
-<!-- ======================= EDUCATION ======================= -->
 
 # 🎓 Education
 
@@ -542,19 +492,18 @@ Prediction Insights
 
 **Vidya University, Meerut**
 
-📊 Semester 1 GPA — **8.6**
+**Semester 1 GPA**  
+`8.6`
 
-📊 Semester 2 GPA — **8.8**
+**Semester 2 GPA**  
+`8.8`
 
-**Primary direction**
+### Academic Focus
 
-`Artificial Intelligence`
-
-`Machine Learning`
-
-`NLP`
-
-`Generative AI`
+`Artificial Intelligence`  
+`Machine Learning`  
+`Data Science`  
+`Software Systems`
 
 </td>
 
@@ -564,16 +513,12 @@ Prediction Insights
 
 ### Bachelor of Computer Applications
 
-Academic foundation across:
+Foundation across:
 
-`Programming`
-
-`Computer Applications`
-
-`Databases`
-
-`Software Development`
-
+`Programming`  
+`Databases`  
+`Computer Applications`  
+`Software Development`  
 `Problem Solving`
 
 </td>
@@ -583,9 +528,7 @@ Academic foundation across:
 
 ---
 
-<!-- ======================= ENGINEERING INTERESTS ======================= -->
-
-# 🔬 Engineering Interests
+# 🔭 Engineering Interests
 
 <div align="center">
 
@@ -593,65 +536,58 @@ Academic foundation across:
 <img src="https://img.shields.io/badge/Generative%20AI-F5F3FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Large%20Language%20Models-EEF2FF?style=for-the-badge"/>
 
-<br>
+<br/>
 
 <img src="https://img.shields.io/badge/RAG-CCFBF1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Agents-E0F2FE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector%20Databases-F5F3FF?style=for-the-badge"/>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/AI%20Backend%20Engineering-EEF2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Production%20AI%20APIs-CCFBF1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production%20AI%20APIs-EEF2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Backend%20Engineering-CCFBF1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MLOps%20Fundamentals-E0F2FE?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ======================= CAREER DIRECTION ======================= -->
-
-# 🎯 Career Direction
+# 🎯 Engineering Direction
 
 <div align="center">
 
-### AI/ML ENGINEERING
-
 ```text
-Machine Learning
-       +
-Natural Language Processing
-       +
-Generative AI
-       +
-Large Language Models
-       +
-Retrieval-Augmented Generation
-       +
-AI Backend Engineering
-       ↓
-REAL-WORLD INTELLIGENT APPLICATIONS
+                   MACHINE LEARNING
+                           +
+                         NLP
+                           +
+                    GENERATIVE AI
+                           +
+                      LLM / RAG
+                           +
+                 BACKEND ENGINEERING
+                           │
+                           ▼
+                INTELLIGENT AI SYSTEMS
 ```
 
-My primary goal is to grow as an **AI/ML Engineer** working on intelligent applications that connect machine-learning models and modern AI capabilities with reliable backend systems.
+My primary professional direction is **AI/ML Engineering**, with an emphasis on building practical systems that connect models, data, APIs and intelligent user-facing functionality.
 
 </div>
 
 ---
 
-<!-- ======================= GITHUB ANALYTICS ======================= -->
-
-# 📊 GitHub Intelligence Dashboard
+# 📊 GitHub Engineering Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bantysagar&show_icons=true&hide_border=false&border_color=BAE6FD&bg_color=FFFFFF&title_color=7C3AED&icon_color=0EA5E9&text_color=475569&ring_color=14B8A6" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bantysagar&show_icons=true&hide_border=false&border_color=BAE6FD&bg_color=FFFFFF&title_color=7C3AED&icon_color=0EA5E9&text_color=475569&ring_color=14B8A6" alt="Banty Sagar GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantysagar&layout=compact&langs_count=8&hide_border=false&border_color=DDD6FE&bg_color=FFFFFF&title_color=7C3AED&text_color=475569" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantysagar&layout=compact&langs_count=8&hide_border=false&border_color=DDD6FE&bg_color=FFFFFF&title_color=7C3AED&text_color=475569" alt="Banty Sagar Languages"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -661,41 +597,49 @@ My primary goal is to grow as an **AI/ML Engineer** working on intelligent appli
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Engineering Activity
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bantysagar&bg_color=ffffff&color=64748B&title_color=7C3AED&line=38BDF8&point=8B5CF6&area=true&area_color=E0F2FE&hide_border=false&border_color=E2E8F0&radius=10" alt="Contribution Activity"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bantysagar&bg_color=FFFFFF&color=64748B&title_color=7C3AED&line=38BDF8&point=8B5CF6&area=true&area_color=E0F2FE&hide_border=false&border_color=E2E8F0&radius=12&custom_title=Contribution%20Activity" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-<!-- ======================= RECRUITER AREA ======================= -->
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/github-contribution-grid-snake.svg">
+  <img src="./assets/generated/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+</picture>
+
+</div>
+
+---
 
 # 🤝 Open to Opportunities
 
 <div align="center">
 
-### Interested in opportunities across
+### Target Roles
 
-**AI/ML Engineering · Machine Learning · Generative AI · NLP · LLM/RAG**
+**AI/ML Engineer** · **Machine Learning Engineer** · **Generative AI Engineer** · **NLP Engineer** · **AI Engineer**
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/PRIMARY%20ROLE-AI%2FML%20Engineer-38BDF8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CAREER%20LEVEL-Entry%20Level-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FOCUS-AI%20Engineering-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAREER%20LEVEL-ENTRY%20LEVEL-EEF2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRIMARY%20FOCUS-AI%20ENGINEERING-E0F2FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-CCFBF1?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
-
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
@@ -703,49 +647,25 @@ My primary goal is to grow as an **AI/ML Engineer** working on intelligent appli
 <img src="https://img.shields.io/badge/GitHub-Bantysagar-FFFFFF?style=for-the-badge&logo=github&logoColor=334155"/>
 </a>
 
-<!--
-ADD YOUR REAL LINKEDIN URL:
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Banty%20Sagar-E0F2FE?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
--->
-
-<!--
-ADD YOUR REAL PORTFOLIO URL:
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-F5F3FF?style=for-the-badge&logo=googlechrome&logoColor=7C3AED"/>
-</a>
--->
-
-<!--
-ADD PROFESSIONAL EMAIL ONLY IF YOU WANT IT PUBLIC:
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-CCFBF1?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
--->
+<!-- Add verified LinkedIn URL here when available -->
+<!-- Add professional email here only if you want it public -->
+<!-- Add portfolio URL here when available -->
 
 </div>
 
 ---
 
-<!-- ======================= FINAL IDENTITY ======================= -->
-
 <div align="center">
 
-## `BANTY SAGAR`
+## BANTY SAGAR
 
 ### `AI/ML ENGINEER`
 
-**Python • Machine Learning • NLP • Generative AI • LLM • RAG • FastAPI**
+**Machine Learning • NLP • Generative AI • LLMs • RAG • Python • FastAPI**
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Engineering+Intelligent+Systems;Turning+Machine+Learning+into+Applications;Building+with+AI+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+RAG" alt="Footer Animation"/>
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3200&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Engineering+Intelligent+Systems;From+Machine+Learning+Models+to+AI+Applications;AI+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Backend+Engineering" alt="Footer Animation"/>
 
 ### ✦ Engineering intelligent systems from ideas to applications. ✦
 
