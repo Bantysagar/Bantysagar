@@ -17,7 +17,7 @@
 
 <td width="58%" valign="middle">
 
-### `AI ENGINEERING PORTFOLIO`
+`
 
 # 👋 Hi, I'm **Banty Sagar**
 
